@@ -8,7 +8,7 @@ This project was made to practice HTML and CSS through [Scrimba](https://scrimba
 
 ### Project 1
 
-![Project 1 Preview](./Project%201/image.png)
+![Project 1 Preview](./Project%201/project1.png)
 
 - [🌍 Live Demo]()
 
