@@ -12,4 +12,10 @@ This project was made to practice HTML and CSS through [Scrimba](https://scrimba
 
 ![Project 2 Preview](./Project%202/project2.png)
 
-# [👤 Author:- faiyaz-xyz](https://github.com/faiyaz-xyz)
+### Project 3
+
+![Project 3 Preview](./Project%203/project3.png)
+
+---
+
+## 👤 Author:- [faiyaz-xyz](https://github.com/faiyaz-xyz)
