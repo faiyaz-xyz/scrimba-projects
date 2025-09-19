@@ -8,8 +8,8 @@ This project was made to practice HTML and CSS through [Scrimba](https://scrimba
 
 ![Project 1 Preview](./Project%201/project1.png)
 
-### [🌍 Live Demo]()
+### Project 2
 
----
+![Project 2 Preview](./Project%202/project2.png)
 
-### [👤 Author:- faiyaz-xyz](https://github.com/faiyaz-xyz)
+# [👤 Author:- faiyaz-xyz](https://github.com/faiyaz-xyz)
